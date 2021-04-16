@@ -2,9 +2,9 @@
 	"bizCode": "CODE0001",
 	"bizName": "my Business",
 	"agencyName": "delectus aut autem",
-	"helperId": "gilDong"
+	"helperId": "gilDong",
 	"serviceName": "helper service",
 	"serviceCode": "AAA001",
-	"userId": "aaaa"
+	"userId": "aaaa",
 	"userName": "bbbb"
 }
